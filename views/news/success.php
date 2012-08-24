@@ -1,0 +1,1 @@
+<a href="<?php echo site_url('news');?>"> Great job, let's go back and check it out now... </a>

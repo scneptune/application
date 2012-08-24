@@ -1,2 +1,4 @@
-echo "Hello World  THIS IS HOME, <a href='index.php/pages/view/about.php'> GO TO ABOUT </a>"
+
+<p>"Hello World  THIS IS <a href="home"> HOME </a> <a href="about"> GO TO ABOUT </a> </p>
  
+<a href="news">GO TO news </a>";
