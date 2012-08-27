@@ -1,0 +1,1 @@
+This is a project where I first started expirementing with CodeIgniter and built out a tiny CMS using the MVC structure.
